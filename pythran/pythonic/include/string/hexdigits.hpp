@@ -8,7 +8,7 @@ namespace pythonic
 
   namespace string
   {
-    types::str constexpr hexdigits("0123456789abcdefABCDEF");
+    types::str const hexdigits("0123456789abcdefABCDEF");
   }
 }
 
